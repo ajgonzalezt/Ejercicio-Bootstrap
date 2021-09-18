@@ -1,0 +1,31 @@
+  .banner{
+    background-color: #492d18;
+    color: white;
+    height: 5rem;
+  }
+  
+  .leftMenu{
+    background-color: orange;
+  }
+  
+  .topMenu{
+    background-color: rosybrown;
+  }
+  
+  .nImpar{
+    background-color: #DB7093;
+  }
+  
+  .nPar{
+    background-color: #00BFFF;
+  }
+  
+  .content{
+    padding: 5rem;
+  }
+  
+  .footer{
+    background-color: #492d18;
+    color: white;
+    height: 2.5rem;
+  }
